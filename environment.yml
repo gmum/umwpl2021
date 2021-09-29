@@ -1,0 +1,36 @@
+name: mldd
+channels:
+  - rdkit
+  - pytorch
+  - mordred-descriptor
+  - anaconda
+  - conda-forge
+  - defaults
+  - tpeulen
+  - pyg
+dependencies:
+  - biopython
+  - bokeh
+  - jupyter
+  - matplotlib
+  - mordred
+  - networkx
+  - notebook
+  - numpy
+  - openbabel
+  - pandas
+  - pip
+  - py3dmol
+  - pyg
+  - pymol-open-source
+  - python
+  - pytorch
+  - pyyaml
+  - rdkit
+  - scikit-learn
+  - scipy
+  - seaborn
+  - smina
+  - tensorboard
+  - tqdm
+  - yaml
