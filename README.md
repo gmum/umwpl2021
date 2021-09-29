@@ -10,6 +10,20 @@ This repository contains course materials for the course "Machine Learning in Dr
 6. Finding drug targets. Druggability and inverse virtual screening.
 6. [TBA]
 
+## About us
+
+[GMUM](https://gmum.net/) (Machine Learning Research Group) is a group at the Jagiellonian University working on various aspects of machine learning, and in particular deep learning - in both fundamental and applied settings. The group is led by prof. Jacek Tabor.
+
+Some of the research directions our group pursues include:
+- generative models: efficient training and sampling; inpainting; super-resolution,
+- theoretical understanding of deep learning and optimization,
+- natural language processing,
+- drug design and cheminformatics,
+- unsupervised learning and clustering,
+- computer vision and medical image analysis.
+
+We are hosting machine learning seminars that are open to the public. You can check the schedule on [our website](https://gmum.net/seminars.html) and join online (links posted on [our Facebook](http://facebook.com/gmum.net)).
+
 ## Environment Setup
 
 Python will be used throughout the course. The environment setup steps are shown below:
@@ -66,7 +80,3 @@ Projekty można będzie wykonywać w grupach 1-3 osób. W razie potrzeby możliw
 Proponowane tematy:
 
 [TBA]
-
-## Literatura
-
-[TBD]
