@@ -23,18 +23,21 @@ Some of the research directions our group pursues include:
 - computer vision and medical image analysis.
 
 We are hosting machine learning seminars that are open to the public. You can check the schedule on [our website](https://gmum.net/seminars.html) and join online (links posted on [our Facebook](http://facebook.com/gmum.net)).
+You can also add seminar info to your [Google calendar](https://calendar.google.com/calendar/u/0?cid=ZDJjcTFudnU0Y2UxNXNnODltdDc4Y3BtcTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 ## Environment Setup
 
 Python will be used throughout the course. The environment setup steps are shown below:
 
-1. Install [miniconda](https://docs.conda.io/en/latest/miniconda.html) zgodnie z instrukcją dla wybranego systemu.
+1. Install [miniconda](https://docs.conda.io/en/latest/miniconda.html) following the instructions for your operating system.
 2. Download this repository: `git clone https://github.com/gmum/umwpl2021.git`.
 3. Install environment from the YAML file: `conda env create -f environment.yml`
 
 In the `environment-versions.yml` file, the exact versions of each package are listed. They may not be compatible with all operating systems.
 
 _Important! If you would like to use your GPU to train neural networks, add `cudatoolkit` in a correct version (e.g. `cudatoolkit=10.2`) to the `environment.yml` file._
+
+_If you plan to use our computational cluster, ask us about a configured environment on the server. We have a singularity image with all the packages installed._
 
 ## Literature
 
@@ -62,7 +65,9 @@ Zajęcia będą prowadzone z użyciem języka Pythonie. Instrukcja instalacji ś
 
 W pliku `environment-versions.yml` znajdują się dokładne wersje poszczególnych paczek, ale lista może nie być kompatybilna z wszystkimi systemami.
 
-Ważne! Jeżeli chciałbyś użyć karty graficznej do treningu sieci neuronowych, dodaj `cudatoolkit` z odpowiednią wersją (np. `cudatoolkit=10.2`) do pliku `environment.yml`.
+_Ważne! Jeżeli chciałbyś użyć karty graficznej do treningu sieci neuronowych, dodaj `cudatoolkit` z odpowiednią wersją (np. `cudatoolkit=10.2`) do pliku `environment.yml`._
+
+_Jeśli planujesz używać naszego klastra obliczeniowego, spytaj nas o skonfigurowane środowisko. Na serwerze mamy obraz singularity z zainstalownymi wszystkimi potrzebnymi paczkami._
 
 ## Projekt Zaliczeniowy
 
@@ -72,7 +77,7 @@ Ocena z ćwiczeń wystawiana jest na podstawie projektu. Warunkiem koniecznym uz
 
 Projekty można będzie wykonywać w grupach 1-3 osób. W razie potrzeby możliwe jest otrzymanie dostępu do klastra obliczeniowego z GPU po złożeniu prośby do administratora. Projekt zaliczeniowy powinien posiadać:
 
-- Repozytorium Github z licencją umożliwiającą dzielenie się kodem i wynikami projektu na stronie kursu oraz wykorzystanie kodu w przyszłych edycjach kursu (np. MIT, GNU GPL, Apache 2.0 lub własna).
+- Publiczne repozytorium Github (lub Gitlab/Bitbucket) z licencją umożliwiającą dzielenie się kodem i wynikami projektu na stronie kursu oraz wykorzystanie kodu w przyszłych edycjach kursu (np. MIT, GNU GPL, Apache 2.0 lub własna).
 - Dokumentację projektu w postaci pliku README, który zawiera między innymi: krótki opis projektu, instrukcję uruchomienia kodu wraz z listą zależności, podsumowanie wyników. Możliwe są również odniesienia do wygenerowanych plików PDF i iPython notebooków z uzupełnieniem dokumentacji, pod warunkiem że znajdują się również w repozytorium.
 - Wszystkie dane lub odniesienia do źródeł danych.
 - Kod umożliwiający odtworzenie kluczowych wyników projektu.
