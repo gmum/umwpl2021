@@ -1,3 +1,8 @@
+# Ogłoszenia
+
+- Projekty należało zgłosić do końca października - czekamy na spóźnialskich!
+- 12 listopada jest dniem wolnym od zajęć.
+
 # 🇬🇧 Machine Learning in Drug Design (MLDD) 2021/2022
 
 This repository contains course materials for the course "Machine Learning in Drug Design." In the `labs` directory, there are materials covering the following topics:
