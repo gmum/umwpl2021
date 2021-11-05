@@ -46,7 +46,11 @@ _If you plan to use our computational cluster, ask us about a configured environ
 
 ## Literature
 
-[TBD]
+1. Rogers, D., & Hahn, M. (2010) [Extended-Connectivity Fingerprints](https://pubs.acs.org/doi/10.1021/ci100050t). *Journal of chemical information and modeling*.
+2. Durant, J. L., Leland, B. A., Henry, D. R., & Nourse, J. G. (2002). [Reoptimization of MDL Keys for Use in Drug Discovery](https://pubs.acs.org/doi/10.1021/ci010132r). *Journal of chemical information and computer sciences*.
+3. Deng, Z., Chuaqui, C., & Singh, J. (2004). [Structural Interaction Fingerprint (SIFt):  A Novel Method for Analyzing Three-Dimensional Protein−Ligand Binding Interactions](https://pubs.acs.org/doi/10.1021/jm030331x). *Journal of medicinal chemistry*.
+4. McNutt, A. T., Francoeur, P., Aggarwal, R., Masuda, T., Meli, R., Ragoza, M., ... & Koes, D. R. (2021). [GNINA 1.0: molecular docking with deep learning](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00522-2). *Journal of cheminformatics*.
+5. Koes, D. R., Baumgartner, M. P., & Camacho, C. J. (2013). [Lessons learned in empirical scoring with smina from the CSAR 2011 benchmarking exercise](https://pubs.acs.org/doi/abs/10.1021/ci300604z). *Journal of chemical information and modeling*.
 
 # 🇵🇱 Uczenie maszynowe w projektowaniu leków (UMwPL) 2021/2022
 
