@@ -1,7 +1,6 @@
 # Ogłoszenia
 
-- Projekty należało zgłosić do końca października - czekamy na spóźnialskich!
-- 12 listopada jest dniem wolnym od zajęć.
+- W dniach 6 XII oraz 13 XII na wykładzie odbędą się prezentacje projektów. Oceniane będą zapoznanie się z tematem, zrozumienie danych i plany do końca semestru. 6 XII prezentować będą osoby z grupy nr 1, a 13 XII osoby z grupy nr 2. W przypadku mieszanych grup, będę się jeszcze kontaktował indywidualnie.
 
 # 🇬🇧 Machine Learning in Drug Design (MLDD) 2021/2022
 
@@ -51,6 +50,12 @@ _If you plan to use our computational cluster, ask us about a configured environ
 3. Deng, Z., Chuaqui, C., & Singh, J. (2004). [Structural Interaction Fingerprint (SIFt):  A Novel Method for Analyzing Three-Dimensional Protein−Ligand Binding Interactions](https://pubs.acs.org/doi/10.1021/jm030331x). *Journal of medicinal chemistry*.
 4. McNutt, A. T., Francoeur, P., Aggarwal, R., Masuda, T., Meli, R., Ragoza, M., ... & Koes, D. R. (2021). [GNINA 1.0: molecular docking with deep learning](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00522-2). *Journal of cheminformatics*.
 5. Koes, D. R., Baumgartner, M. P., & Camacho, C. J. (2013). [Lessons learned in empirical scoring with smina from the CSAR 2011 benchmarking exercise](https://pubs.acs.org/doi/abs/10.1021/ci300604z). *Journal of chemical information and modeling*.
+6. Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O., ... & Hassabis, D. (2021). [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2). *Nature*.
+7. Kipf, T. N., & Welling, M. (2016). [Semi-supervised classification with graph convolutional networks](https://arxiv.org/pdf/1609.02907.pdf?fbclid=IwAR0BgJeoKHIAvPuSE9fJ0_IQOEu5l75yxyNo7PUC08RTOFlm_IIo5YmcnQM). **arXiv preprint arXiv:1609.02907**.
+8. Xu, K., Hu, W., Leskovec, J., & Jegelka, S. (2018). [How powerful are graph neural networks?](https://arxiv.org/pdf/1810.00826.pdf). **arXiv preprint arXiv:1810.00826**.
+9. Veličković, P., Cucurull, G., Casanova, A., Romero, A., Lio, P., & Bengio, Y. (2017). [Graph attention networks](https://arxiv.org/pdf/1710.10903.pdf). **arXiv preprint arXiv:1710.10903**.
+10. Hamilton, W. L., Ying, R., & Leskovec, J. (2017, December). [Inductive representation learning on large graphs](https://proceedings.neurips.cc/paper/2017/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Paper.pdf). In **Proceedings of the 31st International Conference on Neural Information Processing Systems** (pp. 1025-1035).
+11. Pope, P. E., Kolouri, S., Rostami, M., Martin, C. E., & Hoffmann, H. (2019). [Explainability methods for graph convolutional neural networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf). In **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition** (pp. 10772-10781).
 
 # 🇵🇱 Uczenie maszynowe w projektowaniu leków (UMwPL) 2021/2022
 
@@ -91,6 +96,28 @@ Projekty można będzie wykonywać w grupach 1-3 osób. W razie potrzeby możliw
 - Wszystkie dane lub odniesienia do źródeł danych.
 - Kod umożliwiający odtworzenie kluczowych wyników projektu.
 
-Proponowane tematy:
+*Uwaga:* projekty, które będą kontynuowane po skończeniu semestru, np. w celu napisania publikacji, mogą mieć prywatne repozytorium udostępnione prowadzącym na tych samych zasadach.
 
-[TBA]
+### Ocenianie
+
+6 i 13 XII odbędą się prezentacje projektów. Oceniane będzie zapoznanie się z tematem, zrozumienie danych i plany na pozostałą część semestru. Prezentacja będzie stanowić 15% oceny końcowej. Dla ułatwienia przygotowania prezentacji, poniżej znajdują się szczegółowe kryteria. Podane są też pytania, które mogą pomóc w przygotowaniu.
+
+- Zrozumienie tematu (5%)
+  - Co jest celem projektu?
+  - Jakie jest znaczenie biologiczne/chemiczne projektu?
+  - Co jest potencjalną trudnością w wykonaniu projektu?
+  - Jaki jest spodziewany efekt projektu?
+- Zrozumienie danych (5%)
+  - jakie dane wejściowe będą użyte w projekcie?
+  - skąd można pozyskać dane do projektu?
+  - jaka jest struktura danych użytych w projekcie (np. fingerprinty albo grafy molekularne)?
+  - wstępnie jakie problemy w dostępnych danych są widoczne?
+  - jakie dodatkowe informacje (metadane) są dostępne?
+- Planowana implementacja (5%)
+  - Czy ten temat był już poruszany w literaturze? Jeśli tak, to jakie narzędzia są dostępne?
+  - Jakie metody uczenia maszynowego będą wykorzystane w projekcie?
+  - Jak zdefiniowane będzie wejście i wyjście modelu?
+  - Jakie miary będą zastosowane do zmierzenia skuteczności modelu?
+  - Jaki stos technologiczny będzie użyty do wykonania projektu?
+
+Prezentacja odbywa się stacjonarnie. Jest dostęp do rzutnika, więc można przygotować pomocnicze slajdy. Prezentacja powinna zająć nie więcej niż 15 minut (najlepiej 10 minut prezentacji i 5 minut dyskusji).
