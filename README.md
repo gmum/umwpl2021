@@ -1,7 +1,3 @@
-# Ogłoszenia
-
-- W dniach 6 XII oraz 13 XII na wykładzie odbędą się prezentacje projektów. Oceniane będą zapoznanie się z tematem, zrozumienie danych i plany do końca semestru. 6 XII prezentować będą osoby z grupy nr 1, a 13 XII osoby z grupy nr 2. W przypadku mieszanych grup, będę się jeszcze kontaktował indywidualnie.
-
 # 🇬🇧 Machine Learning in Drug Design (MLDD) 2021/2022
 
 This repository contains course materials for the course "Machine Learning in Drug Design." In the `labs` directory, there are materials covering the following topics:
@@ -11,8 +7,7 @@ This repository contains course materials for the course "Machine Learning in Dr
 3. Protein chemistry. Popular data formats. Molecular docking.
 4. Molecular graph theory. Graph neural networks. Interpretability.
 5. Review of generative models in drug discovery.
-6. Finding drug targets. Druggability and inverse virtual screening.
-6. [TBA]
+6. Finding drug targets. Deep learning for proteins.
 
 ## About us
 
@@ -56,6 +51,11 @@ _If you plan to use our computational cluster, ask us about a configured environ
 9. Veličković, P., Cucurull, G., Casanova, A., Romero, A., Lio, P., & Bengio, Y. (2017). [Graph attention networks](https://arxiv.org/pdf/1710.10903.pdf). *arXiv preprint arXiv:1710.10903*.
 10. Hamilton, W. L., Ying, R., & Leskovec, J. (2017, December). [Inductive representation learning on large graphs](https://proceedings.neurips.cc/paper/2017/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Paper.pdf). In *Proceedings of the 31st International Conference on Neural Information Processing Systems* (pp. 1025-1035).
 11. Pope, P. E., Kolouri, S., Rostami, M., Martin, C. E., & Hoffmann, H. (2019). [Explainability methods for graph convolutional neural networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf). In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (pp. 10772-10781).
+12. Popova, M., Isayev, O., & Tropsha, A. (2018). [Deep reinforcement learning for de novo drug design](https://www.science.org/doi/pdf/10.1126/sciadv.aap7885). *Science advances*.
+13. Jin, W., Barzilay, R., & Jaakkola, T. (2018, July). [Junction tree variational autoencoder for molecular graph generation](http://proceedings.mlr.press/v80/jin18a/jin18a.pdf). In *International conference on machine learning* (pp. 2323-2332). PMLR.
+14. Gómez-Bombarelli, R., Wei, J. N., Duvenaud, D., Hernández-Lobato, J. M., Sánchez-Lengeling, B., Sheberla, D., ... & Aspuru-Guzik, A. (2018). [Automatic chemical design using a data-driven continuous representation of molecules](https://pubs.acs.org/doi/pdf/10.1021/acscentsci.7b00572). *ACS central science, 4*(2), 268-276.
+15. Maziarka, Ł., Danel, T., Mucha, S., Rataj, K., Tabor, J., & Jastrzębski, S. (2020). [Molecule attention transformer](https://arxiv.org/pdf/2002.08264.pdf). *arXiv preprint arXiv:2002.08264*.
+16. Jiménez, J., Doerr, S., Martínez-Rosell, G., Rose, A. S., & De Fabritiis, G. (2017). [DeepSite: protein-binding site predictor using 3D-convolutional neural networks](https://academic.oup.com/bioinformatics/article/33/19/3036/3859178). *Bioinformatics, 33*(19), 3036-3042.
 
 # 🇵🇱 Uczenie maszynowe w projektowaniu leków (UMwPL) 2021/2022
 
@@ -66,8 +66,7 @@ Repozytorium zawiera materiały z kursu "Uczenie maszynowe w projektowaniu lekó
 3. Chemia białek. Popularne formaty danych. Dokowanie molekularne.
 4. Teoria grafów molekularnych. Grafowe sieci neuronowe, Interpretowalność.
 5. Przegląd modeli generatywnych w odkrywaniu leków.
-6. Znajdowanie nowych celów biologicznych. Zdatność białek do bycia celem leku i odwrotne wirtualne badanie przesiewowe.
-7. [TBA]
+6. Znajdowanie nowych celów biologicznych. Uczenie głębokie dla białek.
 
 ## Instalacja Środowiska
 
@@ -84,8 +83,6 @@ _Ważne! Jeżeli chciałbyś użyć karty graficznej do treningu sieci neuronowy
 _Jeśli planujesz używać naszego klastra obliczeniowego, spytaj nas o skonfigurowane środowisko. Na serwerze mamy obraz singularity z zainstalownymi wszystkimi potrzebnymi paczkami._
 
 ## Projekt Zaliczeniowy
-
-*wstępna wersja*
 
 Ocena z ćwiczeń wystawiana jest na podstawie projektu. Warunkiem koniecznym uzyskania oceny pozytywnej jest uczestnictwo na zajęciach (dopuszczalna 1 nieobecność).
 
